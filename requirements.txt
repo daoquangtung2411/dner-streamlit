@@ -2,3 +2,4 @@ streamlit
 torch
 gliner
 pandas
+sentencepiece==0.1.99
