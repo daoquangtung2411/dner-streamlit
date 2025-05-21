@@ -1,5 +1,6 @@
 streamlit
 torch
+sentencepiece
 gliner
 pandas
-sentencepiece==0.1.99
+
