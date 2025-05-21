@@ -1,6 +1,6 @@
+--prefer-binary
+sentencepiece==0.1.99
+gliner==0.1.5
 streamlit
 torch
-sentencepiece
-gliner
 pandas
-
