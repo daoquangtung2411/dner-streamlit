@@ -1,3 +1,4 @@
+scipy>=1.10
 gliner==0.1.7
 numpy==1.26.4
 openpyxl==3.1.2
